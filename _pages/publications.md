@@ -5,12 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign publications = site.publications | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+  <div class="pubteaser">
+  <a href="{{pub.url}}">
+    <img
+      src="/images/publication-pages/{{ pub.slug }}_small.jpg"
+      alt="{{pub.slug}} publication teaser"
+    />
+  </a>
+  </div>
+    <div class="pubtitle">{{ pub.title }}</div>
+    <div class="pubauthors">{{ pub.authors }}</div>
+    <div class="pubinfo">{{ pub.publication }}, {{ pub.year}}</div>
+    <div class="publinks">
+    <a href="/download/{{pub.slug}}.pdf"><i class="fa fa-file-pdf"></i></a
+    >&nbsp;&nbsp;
+    <a href="{{page.doi}}"><i class="fas fa-external-link-alt"></i></a>
+  </div>
+</div>
 {% endfor %}
