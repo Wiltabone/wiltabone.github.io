@@ -401,7 +401,9 @@
 }
 
 
-
+/*
+   Publications 
+   ========================================================================== */
 
 
 pubitem {
@@ -418,7 +420,7 @@ pubitem {
 .pubauthors,
 .pubinfo {
   font-size: 75%;
-  margin-bottom: 0.75em;
+  margin-bottom: 0.90em;
 }
 
 .pubteaser {
@@ -433,8 +435,53 @@ pubitem {
 .pubteaser img {
   width: 150px;
   border: 1px solid black;
+  margin-bottom: 0.90em;
 }
 
 .publinks {
-  font-size: 80%;
+  font-size: 90%;
+  margin-bottom: 0.50em;
 }
+
+
+
+/*
+   Portfolio
+   ========================================================================== */
+
+poritem {
+  margin: 2em 0;
+  line-height: 1em;
+}
+
+.portitle {
+  margin-bottom: 0.5em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+
+.porauthors,
+.porinfo {
+  font-size: 75%;
+  margin-bottom: 0.75em;
+}
+
+.porteaser {
+  clear: both;
+}
+
+.porteaser a {
+  float: left;
+  margin-right: 2em;
+}
+
+.porteaser img {
+  width: 120px;
+  border: 1px solid black;
+  margin-bottom: 0.75em;
+}
+
+.porlinks {
+  font-size: 100%;
+}
+

@@ -8,7 +8,22 @@ author_profile: true
 {% include base_path %}
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
+{% assign portfolio = site.portfolio| sort: "year" | reverse %}
+{% for por in portfolio %}
+<div class="poritem">
+  <div class="porteaser">
+  <a href="{{por.link}}">
+    <img
+      src="/images/portfolio-pages/{{ por.slug }}_small.jpg"
+      alt="{{por.slug}} portfolio teaser"
+    />
+  </a>
+  </div>
+    <div class="portitle">{{ por.title }}</div>
+    <div class="porauthors">{{ por.type }}</div>
+    <div class="porinfo">{{ por.info }}</div>
+    <div class="publinks">
+    <!--<a href="{{por.link}}"><i class="fas fa-solid fa-eye"></i></a>-->
+  </div>
+</div>
 {% endfor %}
-

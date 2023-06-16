@@ -1,5 +1,6 @@
 ---
 layout: default
+type: journal
 title: How do people distribute their attention while observing The Night Watch?
 authors: Joost de Winter, Dimitra Dodou, Wilbert Tabone
 publication: Perception
