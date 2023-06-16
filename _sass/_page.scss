@@ -485,3 +485,39 @@ poritem {
   font-size: 100%;
 }
 
+/*
+   About
+   ========================================================================== */
+
+.imgwrapper {
+  float: left;
+}
+
+.imgwrapper img {
+  display:block;
+  width: 40%;
+  height: auto; 
+  margin-right: 15px;
+  float: left; 
+  margin-bottom: 0.75em;
+}
+
+.imgwrapper p {
+  overflow: hidden;
+}
+
+.imgwrapright {
+  float: right;
+  
+}
+
+.imgwrapright img {
+  margin-left: 15px;
+  float: right;
+  display:block;
+  width: 40%;
+  height: auto; 
+  margin-bottom: 0.75em;
+}
+
+
