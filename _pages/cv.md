@@ -206,7 +206,7 @@ Supervised MSc Students:
 * [Max Oudshoorn](https://repository.tudelft.nl/islandora/object/uuid%3Ae56d8125-27c0-4467-bcf2-bb255402cf90?collection=research) (2020) (observer)
 * [Lokkeshver Thirunavukkarasu Kumaaravelu](http://resolver.tudelft.nl/uuid:d52f49ce-1edb-4dc1-94f7-a5617e79ee42) (2022)
 * [Joris Peereboom](http://resolver.tudelft.nl/uuid:3abccaa3-c385-48df-b4fb-1c5f2d55831c) (2022)
-* [Thomas Aleva] (http://resolver.tudelft.nl/uuid:e8fc163d-c6a5-478f-bfca-ebfe4b64ed2c) (2023)
+* [Thomas Aleva](http://resolver.tudelft.nl/uuid:e8fc163d-c6a5-478f-bfca-ebfe4b64ed2c) (2023)
 
   <div> &nbsp;&nbsp; </div>
   
