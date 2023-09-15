@@ -1,9 +1,9 @@
 ---
 layout: default
-type: preprint 
+type: journal 
 title: Using ChatGPT for Human-Computer Interaction Research - A Primer
 authors: Wilbert Tabone, Joost de Winter
-publication: In Review
+publication: Royal Society Open Science
 year: 2023
-doi: https://www.researchgate.net/publication/367284084_Using_ChatGPT_for_Human-Computer_Interaction_Research_A_Primer
+doi: https://doi.org/10.1098/rsos.231053
 ---
