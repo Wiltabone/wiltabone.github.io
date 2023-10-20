@@ -28,7 +28,9 @@ redirect_from:
 
 ## Publications
 
-Block, A., Joshi, S., **Tabone, W.**, Pandya A., Lee, S., Patil, V., Britten, N., & Schmitt, P. (2023). The Road Ahead: Advancing Interactions between Autonomous Vehicles, Pedestrians, and Other Road Users. Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). Busan, South Korea. 
+Aleva, T\*., **Tabone, W\*.**, Dodou, D., & De Winter J. C. F. (2023). [Augmented reality for supporting the interaction between pedestrians and automated vehicles: An experimental outdoor study](https://www.researchgate.net/publication/374806880_Augmented_reality_for_supporting_the_interaction_between_pedestrians_and_automated_vehicles_An_experimental_outdoor_study). Under review.
+
+Block, A., Joshi, S., **Tabone, W.**, Pandya A., Lee, S., Patil, V., Britten, N., & Schmitt, P. (2023). [The Road Ahead: Advancing Interactions between Autonomous Vehicles, Pedestrians, and Other Road Users](https://www.researchgate.net/publication/374339188_The_Road_Ahead_Advancing_Interactions_between_Autonomous_Vehicles_Pedestrians_and_Other_Road_Users?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19). Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). Busan, South Korea. 
 
 Peereboom, J\*., **Tabone, W\*.**, Dodou, D., & De Winter J. C. F. (2023). [Head-locked, world-locked, or conformal diminished-reality? An examination of different AR solutions for pedestrian safety in occluded scenarios](https://www.researchgate.net/publication/371509780_Head-locked_world-locked_or_conformal_diminished-reality_An_examination_of_different_AR_solutions_for_pedestrian_safety_in_occluded_scenarios). Under review.
 
