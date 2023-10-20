@@ -13,7 +13,7 @@ I’m Wilbert Tabone, a techie interested in the arts. I specialise in User Expe
 
 <div class="imgwrapper">
    <img src="/images/about-page/science.jpg" alt="science" />
-  <p> I’m currently engaged as a PhD Candidate at <a href="https://www.tudelft.nl/staff/w.tabone/"> Delft University of Technology </a>, focusing on cognitive human-robot interaction, under the supervision of <a href="https://www.tudelft.nl/staff/j.c.f.dewinter/"> Prof. Joost de Winter </a>, and <a href="https://www.tudelft.nl/staff/r.happee/"> Prof. Riender Happee </a>. My research forms part of the Marie Skłodowska-Curie Action Innovative Training Network project <a href ="https://www.shape-it.eu/esr/esr-9-assessing-interactions-between-avs-vrus-using-virtual-augmented-reality/"> SHAPE-IT </a>, which aims to enable the rapid and reliable development of safe and user-centred automated vehicles for urban environments. </p>
+  <p> I’m currently engaged as a PhD Candidate at <a href="https://www.tudelft.nl/staff/w.tabone/"> Delft University of Technology </a>, focusing on cognitive human-robot interaction, under the supervision of <a href="https://www.tudelft.nl/staff/j.c.f.dewinter/"> Prof. Joost de Winter</a>, and <a href="https://www.tudelft.nl/staff/r.happee/"> Prof. Riender Happee </a>. My research forms part of the Marie Skłodowska-Curie Action Innovative Training Network project <a href ="https://www.shape-it.eu/esr/esr-9-assessing-interactions-between-avs-vrus-using-virtual-augmented-reality/"> SHAPE-IT </a>, which aims to enable the rapid and reliable development of safe and user-centred automated vehicles for urban environments. </p>
 </div>
 
 
@@ -31,3 +31,9 @@ Previous to this role, I was spearheading creative computing development in the 
 **Research Interests**
 
 Human-Computer Interaction, Extended Reality, Human Perception, Human Factors, Artificial Intelligence, User Experience, Digital Cultural Heritage, Creative Computation, Art Science, Generative Art.
+
+
+**Current Research**
+
+
+[![SHAPE-IT: Wilbert Tabone](http://img.youtube.com/vi/7xrhK42CapE/0.jpg)](http://www.youtube.com/watch?v=7xrhK42CapE "SHAPE-IT: Wilbert Tabone")
