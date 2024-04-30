@@ -42,7 +42,6 @@ Currently, I am a member of a consortium of artists and scientists at TU Delft t
 
 Human-Computer Interaction, Spatial Computing, Neuroergonomics, Human Perception, Human Factors, Artificial Intelligence, User Experience, Digital Cultural Heritage, Creative Computation, Art Science, Generative Art.
 
-
 **PhD Research**
 
 
