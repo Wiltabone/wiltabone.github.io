@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wilbert Tabone"
 title_separator          : "-"
 name                     : &name "Wilbert Tabone"
-description              : &description "PhD Candidate in Cognitive Human-Robot Interaction"
+description              : &description "Postdoc researcher in enhancing Human-Robot Interactions using Brain-Computer Interfaces"
 url                      : https://www.wilbertabone.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wiltabone/wiltabone.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Wilbert Tabone"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Cognitive Human-Robot Interaction, Delft University of Technology"
+  bio              : "Postdoc researcher in Brain-Computer Interfaces, Delft University of Technology"
   location         : "Netherlands"
   employer         :
   pubmed           : 
